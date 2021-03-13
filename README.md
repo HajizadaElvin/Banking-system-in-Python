@@ -1,1 +1,1 @@
-Advanced level project simulating how a Simple Banking System would work. Project creates card numbers using Luhn Algorithm and checks their validity during login process. Project utilizes SQLite3 in Python and stores user credentials in a database.
+With this software, the user can also deposit and transfer money by simply entering the user account number and entering the amount. Also, the user can check the balance. This simple console-based system provides the simplest management of bank accounts and transactions.
